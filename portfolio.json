@@ -1,0 +1,193 @@
+{
+  "id": "2950b0b9-9997-4b56-a574-ee79471e139c",
+  "name": "Anthony Zappala",
+  "title": "Chemical Engineer",
+  "bio": "Chemical engineering graduate with experience in process design, electrochemistry, and automation.",
+  "aboutText": "Chemical engineering graduate with a strong foundation in process simulation, data analysis, and laboratory techniques. Passionate about applying technical expertise to develop sustainable solutions and innovative technologies.",
+  "projectsDescription": "Explore some of my recent work and personal projects that showcase my skills and passion for development.",
+  "contactIntro": "I'm always interested in discussing new opportunities or answering questions about my work. Feel free to reach out!",
+  "footerDescriptors": [
+    "Innovation",
+    "Problem Solving",
+    "Technical Expertise"
+  ],
+  "theme": "default",
+  "themeColors": {
+    "text": "#1F2937",
+    "accent": "#F3F4F6",
+    "primary": "#0B3D91",
+    "secondary": "#17A2B8",
+    "background": "#FFFFFF"
+  },
+  "headshotImage": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/2950b0b9-9997-4b56-a574-ee79471e139c/images/hero/portfolio-1760545289676_7j6zGMY-bY.JPG",
+  "resumeUrl": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/2950b0b9-9997-4b56-a574-ee79471e139c/documents/resume-1760471945552_nFZMDcDIO.pdf",
+  "resumeFilename": "AZ_resume_SiTration.pdf",
+  "referencesUrl": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/2950b0b9-9997-4b56-a574-ee79471e139c/documents/references-1760471953534_WYFVhsfUq.pdf",
+  "referencesFilename": "AZ_references_8_13_25.pdf",
+  "skillsDisplayMode": "categories",
+  "sectionOrder": [
+    "hero",
+    "about",
+    "projects",
+    "timeline",
+    "contact",
+    "footer",
+    "theme"
+  ],
+  "projects": [
+    {
+      "id": "6afa0905-0d77-4778-b511-65674f9f8892",
+      "slug": "new-project",
+      "title": "New Project",
+      "summary": "",
+      "description": null,
+      "headerDescription": null,
+      "pageSummary": null,
+      "image": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/2950b0b9-9997-4b56-a574-ee79471e139c/images/project-a38bf093-d06a-4251-927b-629aa5023654/portfolio-1760545671456_9aovPazP9.png?updatedAt=1760545672879",
+      "imageStyle": "cover",
+      "imageBg": "white",
+      "githubUrl": "",
+      "liveUrl": "",
+      "type": "",
+      "year": "",
+      "duration": "",
+      "detailedDescription": "",
+      "displayOrder": 0,
+      "skills": [],
+      "images": [
+        {
+          "src": "https://ik.imagekit.io/quickFolio99/users/8cd60fd3-0b7e-4453-b679-cac8b6832a05/2950b0b9-9997-4b56-a574-ee79471e139c/images/project-a38bf093-d06a-4251-927b-629aa5023654/portfolio-1760549557863_7IvKbT__g.png?updatedAt=1760549559458",
+          "alt": "",
+          "displayOrder": 0,
+          "imageStyle": "cover",
+          "imageBg": "white"
+        }
+      ]
+    }
+  ],
+  "timeline": [],
+  "skills": {
+    "categories": [
+      {
+        "id": "programming_and_software",
+        "name": "Programming and Software",
+        "displayOrder": 0,
+        "icon": "star"
+      },
+      {
+        "id": "laboratory_and_electrochemical_techniques",
+        "name": "Laboratory and Electrochemical Techniques",
+        "displayOrder": 1,
+        "icon": "star"
+      }
+    ],
+    "skills": {
+      "laboratory_and_electrochemical_techniques": [
+        "Battery Assembly",
+        "Conductivity",
+        "EDS",
+        "EIS",
+        "Fluorescence Imaging",
+        "Live-Dead Quantification",
+        "Microscopy",
+        "Neuron Spike Train Analysis",
+        "PSA",
+        "Pycnometry",
+        "Rate Testing",
+        "Rheology",
+        "SEM"
+      ],
+      "programming_and_software": [
+        "Adobe Illustrator",
+        "Aspen Plus",
+        "AutoCAD",
+        "Excel VBA",
+        "JMP",
+        "Microsoft Office",
+        "Minitab",
+        "Python",
+        "Simulink",
+        "SolidWorks",
+        "SQL",
+        "Tableau"
+      ]
+    }
+  },
+  "contact": {
+    "email": "anthonyzappala1@gmail.com",
+    "phone": "508-530-8842",
+    "linkedin": "",
+    "areasOfInterest": [
+      "Sustainable Technologies",
+      "Process Optimization",
+      "Electrochemical Systems",
+      "Materials Characterization"
+    ]
+  },
+  "links": {
+    "github": "",
+    "website": ""
+  },
+  "references": [
+    {
+      "id": "4f6f11dd-3030-40b5-8559-e84fbd2c0bdb",
+      "name": "Elizabeth Lefevre",
+      "title": "Director of Process Engineering",
+      "company": "Technip Energies",
+      "email": "elefevre@verizon.net",
+      "phone": "(857) 222-6438",
+      "relationship": "Former Co-op Manager",
+      "testimonial": null
+    },
+    {
+      "id": "ed04c47f-055b-4246-8eaa-f6624e123ac3",
+      "name": "Fraser Benjamin Reichner",
+      "title": "Process Engineer",
+      "company": "Technip Energies",
+      "email": "benjamin.reichner@ten.com",
+      "phone": "(215) 429-4293",
+      "relationship": "Former Co-op Coworker and Mentor",
+      "testimonial": null
+    },
+    {
+      "id": "79f5cb7a-90fd-4420-a170-18388553c55a",
+      "name": "Daniel Carter",
+      "title": "Process Engineer",
+      "company": "Technip Energies",
+      "email": "benjamin.reichner@ten.com",
+      "phone": "",
+      "relationship": "Former Co-op Coworker and Mentor",
+      "testimonial": null
+    },
+    {
+      "id": "a0831ce2-c5da-49ae-ad2e-67b59a6424c3",
+      "name": "Dr. Xiaoming Liu, Ph.D.",
+      "title": "Advanced R&D Manager",
+      "company": "24M Technologies",
+      "email": "xliu@24-m.com",
+      "phone": "",
+      "relationship": "Former Co-op Manager",
+      "testimonial": null
+    },
+    {
+      "id": "792a0a48-72fb-483c-96ec-8dee7d7c2430",
+      "name": "Mr. Daniel Salazar",
+      "title": "Battery Engineer",
+      "company": "24M Technologies",
+      "email": "dsalazar@24-m.com",
+      "phone": "",
+      "relationship": "Former Co-op Coworker and Mentor",
+      "testimonial": null
+    },
+    {
+      "id": "e873b1dc-f692-4843-9fe9-c15508e150fa",
+      "name": "Dr. Kyla Nichols",
+      "title": "Postdoctoral Fellow at Ribbeck Lab at MIT",
+      "company": "",
+      "email": "nichols.ky@northeastern.edu",
+      "phone": "(413)-329-9774",
+      "relationship": "Former Research Mentor at Northeastern",
+      "testimonial": null
+    }
+  ]
+}
