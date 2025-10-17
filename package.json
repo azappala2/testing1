@@ -1,0 +1,24 @@
+{
+  "name": "anthony-zappala",
+  "version": "1.0.0",
+  "description": "Anthony Zappala - Portfolio Website",
+  "main": "HTML-compile-complete.js",
+  "scripts": {
+    "build": "node HTML-compile-complete.js portfolio.json",
+    "dev": "node HTML-compile-complete.js portfolio.json --watch"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "static-site"
+  ],
+  "author": "Portfolio Builder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/user/repo.git"
+  }
+}
